@@ -1,8 +1,8 @@
 # Hello world! this is Dev Shah. 
 
-● A curious Computer Programming student who have effective fluency in Logical thinking and Problem Solving. <br>
-● Possessing a strong desire to learn programming domains more deeply by working in a real environment. <br>
-● Learning new concepts and upgrading my skills are my primary targets. <br>
+## ● A curious Computer Programming student who have effective fluency in Logical thinking and Problem Solving. <br>
+## ● Possessing a strong desire to learn programming domains more deeply by working in a real environment. <br>
+## ● Learning new concepts and upgrading my skills are my primary targets. <br>
 
 <table>
 
