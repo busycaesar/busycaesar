@@ -19,7 +19,7 @@
 
 <a href="https://www.linkedin.com/in/busycaesar/"> LinkedIn </a>
             
-<a href="https://www.instagram.com/busycaesar/"> Instagram </a>
+<a href="https://www.instagram.com/busycaesar.scm/"> Instagram </a>
             
 <a href="https://www.youtube.com/c/TheCaesarTales"> YouTube </a>
 
