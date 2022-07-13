@@ -15,6 +15,11 @@
 
 </table>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="busycaesar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/busycaesar?trk=profile-badge">Dev Shah</a></div>
+              
+
 ## You can connect with me using below links.
 
 ### LinkedIn: <a href="https://www.linkedin.com/in/busycaesar/"> busycaesar </a>
