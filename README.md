@@ -17,11 +17,11 @@
 
 ## You can connect with me using below links.
 
-### LinkedIn: <a href="https://www.linkedin.com/in/busycaesar/"> busycaesar </a>
+### <a href="https://www.linkedin.com/in/busycaesar/"> LinkedIn </a>
             
-### Instagram: <a href="https://www.instagram.com/busycaesar.scm/"> busycaesar.scm </a>
+### <a href="https://www.instagram.com/busycaesar.scm/"> Instagram </a>
             
-### YouTube: <a href="https://www.youtube.com/c/TheCaesarTales"> busycaesar </a>
+### <a href="https://www.youtube.com/c/TheCaesarTales"> YouTube </a>
 
 <!---
 busycaesar/busycaesar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
