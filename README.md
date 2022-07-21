@@ -4,7 +4,7 @@
 ## ● Possessing a strong desire to learn programming domains more deeply by working in a real environment. <br>
 ## ● Learning new concepts and upgrading my skills are my primary targets. <br>
 
-<table cellspacing="0" cellpadding="0">
+<table border='0'>
 
 <tr>
 
@@ -29,7 +29,7 @@
 
 </tr>
 
-</table>
+</table border='0'>
 
 <!---
 busycaesar/busycaesar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
