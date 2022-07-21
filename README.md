@@ -17,11 +17,19 @@
 
 ## Connect With ME.
 
-<a href="https://www.linkedin.com/in/busycaesar/"> <img src="Images\linkedin.png" width="65" height="65" alt="LinkedIn"> </a>
+<table>
+
+<tr>
+
+<td> <a href="https://www.linkedin.com/in/busycaesar/"> <img src="Images\linkedin.png" width="65" height="65" alt="LinkedIn"> </a> </td>
             
-<a href="https://www.instagram.com/busycaesar/"> <img src="Images\instagram.png" width="65" height="65" alt="Instagram"> </a>
+<td> <a href="https://www.instagram.com/busycaesar/"> <img src="Images\instagram.png" width="65" height="65" alt="Instagram"> </a> </td>
             
-<a href="https://www.youtube.com/c/TheCaesarTales"> <img src="Images\youtube.png" width="65" height="65" alt="Youtube"> </a>
+<td> <a href="https://www.youtube.com/c/TheCaesarTales"> <img src="Images\youtube.png" width="65" height="65" alt="Youtube"> </a> </td>
+
+</tr>
+
+</table>
 
 <!---
 busycaesar/busycaesar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
