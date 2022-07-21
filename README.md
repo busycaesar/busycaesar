@@ -15,13 +15,13 @@
 
 </table>
 
-## You can connect with me using below links.
+## Connect With ME.
 
-### <a href="https://www.linkedin.com/in/busycaesar/"> LinkedIn </a>
+<a href="https://www.linkedin.com/in/busycaesar/"> <img src="Images\linkedin.png" width="65" height="65" alt="LinkedIn"> </a>
             
-### <a href="https://www.instagram.com/busycaesar.scm/"> Instagram </a>
+<a href="https://www.instagram.com/busycaesar/"> <img src="Images\instagram.png" width="65" height="65" alt="Instagram"> </a>
             
-### <a href="https://www.youtube.com/c/TheCaesarTales"> YouTube </a>
+<a href="https://www.youtube.com/c/TheCaesarTales"> <img src="Images\youtube.png" width="65" height="65" alt="Youtube"> </a>
 
 <!---
 busycaesar/busycaesar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
