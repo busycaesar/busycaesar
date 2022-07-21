@@ -4,7 +4,7 @@
 ## ● Possessing a strong desire to learn programming domains more deeply by working in a real environment. <br>
 ## ● Learning new concepts and upgrading my skills are my primary targets. <br>
 
-<table>
+<table cellspacing="0" cellpadding="0">
 
 <tr>
 
@@ -17,7 +17,7 @@
 
 ## Connect With ME.
 
-<table>
+<table cellspacing="0" cellpadding="0">
 
 <tr>
 
