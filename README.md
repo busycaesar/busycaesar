@@ -1,8 +1,6 @@
 # Hello world! this is Dev Shah. 
 
-## ● A curious Computer Programming student who have effective fluency in Logical thinking and Problem Solving. <br>
-## ● Possessing a strong desire to learn programming domains more deeply by working in a real environment. <br>
-## ● Learning new concepts and upgrading my skills are my primary targets. <br>
+## Detailed-oriented and actively learning computer programming and analysis student with a strong ability to develop, troubleshoot and enhance the code and a passion to work in a dynamic and fast-paced environment, wishing to apply the knowledge gained from the program to the projects that matter in the real world and help the company develop and design new technology leading towards its unprecedented growth and success.
 
 <table border='0'>
 
@@ -15,7 +13,7 @@
 
 </table>
 
-## Connect With ME.
+## Know more about me at,
 
 <a href="https://www.linkedin.com/in/busycaesar/"> <img src="Images\linkedin.png" width="65" height="65" alt="LinkedIn"> </a>
 
