@@ -13,9 +13,7 @@
 
 </table>
 
-## Know more about me at,
-
-<a href="https://www.linkedin.com/in/busycaesar/"> <img src="Images\linkedin.png" width="65" height="65" alt="LinkedIn"> </a>
+## Know more about me at <a href="https://www.linkedin.com/in/busycaesar/"> <img src="Images\linkedin.png" width="65" height="65" alt="LinkedIn"> </a>
 
 <!---
 busycaesar/busycaesar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
