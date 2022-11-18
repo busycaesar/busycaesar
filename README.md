@@ -1,4 +1,4 @@
-## std::cout << "Hello world! this is Dev Shah." << std::endl;
+# std::cout << "Hello world! this is Dev Shah." << std::endl;
 
 ## Detailed-oriented and actively learning computer programming and analysis student with a strong ability to develop, troubleshoot and enhance the code and a passion to develop high-quality software and deliver technical solutions by working in a dynamic and fast-paced environment, wishing to apply the knowledge gained from the program to the projects that matter in the real world and help the company develop and design new technology leading towards its unprecedented growth and success.
 
