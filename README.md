@@ -1,20 +1,49 @@
-# std::cout << "Hello world! this is Dev Shah." << std::endl;
+# std::cout << "Hello world! this is Dev Shah." << std::endl; ##
+Detailed-oriented and actively learning computer programming and analysis
+student with a strong ability to develop, troubleshoot and enhance the code and
+a passion to develop high-quality software and deliver technical solutions by
+working in a dynamic and fast-paced environment, wishing to apply the knowledge
+gained from the program to the projects that matter in the real world and help
+the company develop and design new technology leading towards its unprecedented
+growth and success.
 
-## Detailed-oriented and actively learning computer programming and analysis student with a strong ability to develop, troubleshoot and enhance the code and a passion to develop high-quality software and deliver technical solutions by working in a dynamic and fast-paced environment, wishing to apply the knowledge gained from the program to the projects that matter in the real world and help the company develop and design new technology leading towards its unprecedented growth and success.
-
-<table border='0'>
-
-<tr>
-
-  <td> <img src="https://github-readme-stats.vercel.app/api?username=busycaesar" /> </td>
-  <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busycaesar" /> </td>
-  
-</tr>
-
+<table border="0">
+  <tr>
+    <p>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=busycaesar&show_icons=true&locale=en&layout=compact"
+        alt="busycaesar"
+      />
+    </p>
+    <p>
+      &nbsp;<img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api?username=busycaesar&show_icons=true&locale=en"
+        alt="busycaesar"
+      />
+    </p>
+    <p>
+      <img
+        align="center"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=busycaesar&"
+        alt="busycaesar"
+      />
+    </p>
+  </tr>
 </table>
 
-## Know more about me at,
-<a href="https://www.linkedin.com/in/busycaesar/"> <img src="Images\linkedin.png" width="65" height="65" alt="LinkedIn"> </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/busycaesar" target="blank"
+    ><img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="busycaesar"
+      height="30"
+      width="40"
+  /></a>
+</p>
 
 <!---
 busycaesar/busycaesar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
