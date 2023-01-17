@@ -1,21 +1,15 @@
 # std::cout << "Hello world! this is Dev Shah." << std::endl; ##
-Detailed-oriented and actively learning computer programming and analysis
-student with a strong ability to develop, troubleshoot and enhance the code and
-a passion to develop high-quality software and deliver technical solutions by
-working in a dynamic and fast-paced environment, wishing to apply the knowledge
-gained from the program to the projects that matter in the real world and help
-the company develop and design new technology leading towards its unprecedented
-growth and success.
 
-<table border="0">
-  <tr>
-    <p>
+## Detailed-oriented and actively learning computer programming and analysis student with a strong ability to develop, troubleshoot and enhance the code and a passion to develop high-quality software and deliver technical solutions by working in a dynamic and fast-paced environment, wishing to apply the knowledge gained from the program to the projects that matter in the real world and help the company develop and design new technology leading towards its unprecedented growth and success.
+
+ <p>
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=busycaesar&show_icons=true&locale=en&layout=compact"
         alt="busycaesar"
       />
     </p>
+   
     <p>
       &nbsp;<img
         align="center"
@@ -30,8 +24,6 @@ growth and success.
         alt="busycaesar"
       />
     </p>
-  </tr>
-</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
