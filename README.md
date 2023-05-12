@@ -1,6 +1,6 @@
 # std::cout << "Hello world! this is Dev Shah." << std::endl; ##
 
-## Detailed-oriented and actively learning computer programming and analysis student with a strong ability to develop, troubleshoot and enhance the code and a passion to develop high-quality software and deliver technical solutions by working in a dynamic and fast-paced environment, wishing to apply the knowledge gained from the program to the projects that matter in the real world and help the company develop and design new technology leading towards its unprecedented growth and success.
+## Dev is an actively learning and quality-oriented developer with a keen ability to adapt quickly to new technology. He is committed to developing optimized, clean, readable, and maintainable code for building a high-quality product with the best user experience by utilizing the most suitable library. In addition to his technical skills, he has experience in communicating with clients to understand their requirements and deliver the finest solution. Other than programming, in general, he is adept at strategic planning and problem-solving which can be an asset for building team's productivity.
 
 <br />
 
