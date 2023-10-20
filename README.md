@@ -1,6 +1,6 @@
 # std::cout << "Hello world! this is Dev Shah." << std::endl; ##
 
-## Dev is an actively learning and quality-oriented developer with a keen ability to adapt quickly to new technology. He is committed to developing optimized, clean, readable, and maintainable code for building a high-quality product with the best user experience by utilizing the most suitable library. In addition to his technical skills, he has experience in communicating with clients to understand their requirements and deliver the finest solution. Other than programming, in general, he is adept at strategic planning and problem-solving which can be an asset for building team's productivity.
+## An actively learning and quality-oriented developer, with a keen ability to adapt quickly to new technology, committed to developing optimized, clean, readable, and maintainable code for building a high-quality product having the best user experience. Further, I have experience in communicating with clients, understanding their requirements, delivering the finest solutions and building accessible products. My goal is to learn Full Stack Development along with knowledge in the areas of UI/UX Design as well as DevOps.
 
 <br />
 
