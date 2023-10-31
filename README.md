@@ -1,4 +1,4 @@
-## console.log("Hello world! this is Dev Shah.");
+# console.log("Hello world! this is Dev Shah.");
 
 ## An actively learning and quality-oriented developer, with a keen ability to adapt quickly to new technology, committed to developing optimized, clean, readable, and maintainable code for building a high-quality product having the best user experience. Further, I have experience in communicating with clients, understanding their requirements, delivering the finest as well as accessible solutions. My goal is to learn Full Stack Development along with knowledge in the areas of UI/UX Design and DevOps.
 
@@ -17,25 +17,10 @@
 <table>
   <tr>
     <td>
-      <p>
         <img
           src="https://github-readme-stats.vercel.app/api?username=busycaesar"
           alt="busycaesar"
         />
-      </p>
-      <p>
-        <img
-          src="https://github-readme-streak-stats.herokuapp.com/?user=busycaesar&"
-          alt="busycaesar"
-        />
-      </p>
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=busycaesar"
-        alt="busycaesar"
-      />
-    </td>
   </tr>
 </table>
 
