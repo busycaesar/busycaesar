@@ -1,37 +1,21 @@
-<style>
-  .designation {
-    font-size: medium;
-  }
-</style>
-
-<h1>Dev Shah, <span class="designation">Web Developer</span></h1>
+<h1>Dev Shah, Web Developer</h1>
 <p>
-  An actively learning and quality-oriented developer, with a keen ability to
-  adapt quickly to new technology, committed to developing optimized, clean,
-  readable, and maintainable code for building a high-quality product having the
-  best user experience. Further, I have experience in communicating with
-  clients, understanding their requirements, delivering the finest as well as
-  accessible solutions. My goal is to learn Full Stack Development along with
-  knowledge in the areas of UI/UX Design and DevOps.
+An actively learning and quality-oriented developer, with an ability to adapt quickly to new technology, committed to write clean, readable, and maintainable code for developing a high-quality and accessible product having the best user experience. Further, I have experience in interacting with clients, understanding their requirements, delivering the finest solutions. I aim to learn Full Stack Development along with knowledge in the areas of UI/UX Design and DevOps.
 </p>
 <h2>Technical Skills:</h2>
 <ul>
   <li>
-    Programming and Markup Languages: C, C++, C#, JavaScript, Python, ASP.NET,
-    HTML5, CSS
+    <strong>Programming and Markup Languages:</strong> C, C++, C#, JavaScript, Python, ASP.NET, HTML5, CSS
   </li>
   <li>
-    Libraries, Tools and Frameworks: Node.js, Express.js, React.js, Next.js,
-    JSON, Bootstrap5, Handlebars.js, CMS
+  <strong>Libraries, Tools and Frameworks:</strong> Node.js, Express.js, React.js, Next.js, JSON, Bootstrap5, Handlebars.js, CMS
   </li>
-  <li>Database: mongoDB, SQL, PostgreSQL, Oracle SQL</li>
-  <li>Version Control Systems: Git, GitHub, Azure DevOps</li>
+  <li><strong>Database:</strong> mongoDB, SQL, PostgreSQL, Oracle SQL</li>
+  <li><strong>Version Control Systems:</strong> Git, GitHub, Azure DevOps</li>
   <li>
-    Software Applications and Operating Systems: VS Code, VS Community, Postman,
-    SQL Server Management Studio, Outlook, Discord, Microsoft Teams, Zoom,
-    Windows, Linux, Terminal
+  <strong>Software Applications and Operating Systems:</strong> VS Code, VS Community, Postman, SQL Server Management Studio, Outlook, Discord, Microsoft Teams, Zoom, Windows, Linux, Terminal
   </li>
-  <li>Currently Learning: Full Stack Development</li>
+  <li><strong>Currently Learning:</strong> Full Stack Development</li>
 </ul>
 
 <h2>Connect with me:</h2>
