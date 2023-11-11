@@ -1,4 +1,10 @@
-<h1>Dev Shah <span>Web Developer</span></h1>
+<style>
+  .designation {
+    font-size: medium;
+  }
+</style>
+
+<h1>Dev Shah, <span class="designation">Web Developer</span></h1>
 <p>
   An actively learning and quality-oriented developer, with a keen ability to
   adapt quickly to new technology, committed to developing optimized, clean,
