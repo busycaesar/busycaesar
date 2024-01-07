@@ -5,7 +5,7 @@ An actively learning and quality-oriented developer, with an ability to adapt qu
 <h2>Technical Skills:</h2>
 <ul>
   <li>
-<strong>Languages:</strong>strong> JavaScript, TypeScript, C#, Python, HTML5, CSS, C, C++
+<strong>Languages:</strong> JavaScript, TypeScript, C#, Python, HTML5, CSS, C, C++
 </li><li><strong>Technologies:</strong> Node.js, Express.js, React.js, Next.js, mongoDB, PostgreSQL, SQL, Bootstrap5, Handlebars.js, 
 </li><li><strong>Concepts:</strong> Object Oriented Programming, Web Development, JSON, AJAX, RESTful APIs, JWT, MVC, Web Accessibility
 </li><li><strong>Version Control Systems:</strong> Git, GitHub
