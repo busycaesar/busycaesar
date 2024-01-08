@@ -5,11 +5,11 @@ An actively learning and quality-oriented developer, with an ability to adapt qu
 <h2>Technical Skills:</h2>
 <ul>
   <li>
-<strong>Languages:</strong> JavaScript, TypeScript, C#, Python, HTML5, CSS, C, C++
-</li><li><strong>Technologies:</strong> Node.js, Express.js, React.js, Next.js, mongoDB, PostgreSQL, SQL, Bootstrap5, Handlebars.js, 
+<strong>Languages:</strong> <img src="https://skillicons.dev/icons?i=js,ts,cs,py,html,css,c,cpp" />
+</li><li><strong>Technologies:</strong> <img src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,mongodb,postgres,bootstrap" />
 </li><li><strong>Concepts:</strong> Object Oriented Programming, Web Development, JSON, AJAX, RESTful APIs, JWT, MVC, Web Accessibility
-</li><li><strong>Version Control Systems:</strong> Git, GitHub
-</li><li><strong>Software Applications:</strong> VS Code, Postman, SQL Server Management Studio, Visual Paradigm, Discord
+</li><li><strong>Version Control Systems:</strong><img src="https://skillicons.dev/icons?i=git,github" />
+</li><li><strong>Software Applications:</strong><img src="https://skillicons.dev/icons?i=vscode,postman,discord" />
 </li><li><strong>Operating Systems:</strong> Windows, Linux, Terminal
 </li><li><strong>Currently Learning:</strong> Full Stack Development
 </li></ul>
