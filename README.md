@@ -40,3 +40,9 @@ Windows, Linux, Terminal Currently Learning Full Stack Development
 <a href="mailto:busycaesar@gmail.com" target="blank">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
+<style>
+  a {
+    text-decoration: none;
+  }
+</style>
