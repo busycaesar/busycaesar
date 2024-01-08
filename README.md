@@ -27,8 +27,8 @@ MVC, Web Accessibility
 <h3>Software Applications:</h3>
 <img src="https://skillicons.dev/icons?i=vscode,postman,discord" />
 
-Operating Systems Windows, Linux, Terminal Currently Learning Full Stack
-Development
+<h3>Operating Systems:</h3>
+Windows, Linux, Terminal Currently Learning Full Stack Development
 
 <h2>Connect with me:</h2>
 
