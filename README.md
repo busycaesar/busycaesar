@@ -30,7 +30,10 @@ MVC, Web Accessibility, Regex
 />
 
 <h3>Operating Systems:</h3>
-Windows, Linux, Terminal Currently Learning Full Stack Development
+Windows, Linux, Terminal
+
+<h3>Currently Learning:</h3>
+Full Stack Development
 
 <h2>Connect with me:</h2>
 
