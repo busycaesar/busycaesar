@@ -14,18 +14,20 @@
 
 <h3>Technologies</h3>
 <img
-  src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,mongodb,postgres,bootstrap"
+  src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,mongodb,postgres,firebase,materialui,bootstrap"
 />
 
 <h3>Concepts</h3>
 Object Oriented Programming, Web Development, JSON, AJAX, RESTful APIs, JWT,
-MVC, Web Accessibility
+MVC, Web Accessibility, Regex
 
 <h3>Version Control Systems:</h3>
 <img src="https://skillicons.dev/icons?i=git,github" />
 
 <h3>Software Applications:</h3>
-<img src="https://skillicons.dev/icons?i=vscode,postman,discord" />
+<img
+  src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,discord"
+/>
 
 <h3>Operating Systems:</h3>
 Windows, Linux, Terminal Currently Learning Full Stack Development
@@ -34,4 +36,7 @@ Windows, Linux, Terminal Currently Learning Full Stack Development
 
 <a href="https://linkedin.com/in/busycaesar" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:busycaesar@gmail.com" target="blank">
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
