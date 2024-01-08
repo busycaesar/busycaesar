@@ -17,10 +17,5 @@ An actively learning and quality-oriented developer, with an ability to adapt qu
 <h2>Connect with me:</h2>
 
 <a href="https://linkedin.com/in/busycaesar" target="blank">
-<img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-    alt="Link to LinkedIn Profile"
-    height="30"
-    width="40"
-/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
