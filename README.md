@@ -33,7 +33,7 @@ MVC, Web Accessibility, Regex
 Windows, Linux, Terminal
 
 <h3>Currently Learning:</h3>
-Full Stack Development
+Full Stack Development, BASH Shell Scripting, Cloud Computing (AWS), CI/CD, Application Development
 
 <h2>Connect with me:</h2>
 
@@ -43,3 +43,5 @@ Full Stack Development
 <a href="mailto:busycaesar@gmail.com" target="blank">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=busycaesar)](https://git.io/streak-stats)
