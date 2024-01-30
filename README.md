@@ -43,5 +43,3 @@ Full Stack Development, BASH Shell Scripting, Cloud Computing (AWS), CI/CD, Appl
 <a href="mailto:busycaesar@gmail.com" target="blank">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=busycaesar)](https://git.io/streak-stats)
