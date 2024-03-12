@@ -41,12 +41,18 @@ MVC, Web Accessibility, Regex
 
 <h2>Connect with me:</h2>
 
+<span>
 <a href="https://linkedin.com/in/busycaesar" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
+</span>
+<span>
 <a href="mailto:busycaesar@gmail.com" target="blank">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+</span>
+<span>
 <a href="https://dev.to/busycaesar" target="blank">
   <img src="https://skillicons.dev/icons?i=devto" />
 </a>
+</span>
