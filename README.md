@@ -14,7 +14,7 @@
 
 <h3>Technologies</h3>
 <img
-  src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,mongodb,postgres,firebase,materialui,bootstrap"
+  src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,docker,mongodb,postgres,firebase,materialui,bootstrap"
 />
 
 <h3>Concepts</h3>
