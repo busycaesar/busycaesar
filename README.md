@@ -43,3 +43,6 @@ Full Stack Development, BASH Shell Scripting, Cloud Computing (AWS), CI/CD, Appl
 <a href="mailto:busycaesar@gmail.com" target="blank">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+<a href="https://dev.to/busycaesar" target="blank">
+  <img src="https://skillicons.dev/icons?i=devto" />
+</a>
