@@ -40,9 +40,9 @@ Full Stack Development, BASH Shell Scripting, Cloud Computing (AWS), CI/CD, Appl
 <a href="https://linkedin.com/in/busycaesar" target="blank" style="text-decoration: none">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="mailto:busycaesar@gmail.com" target="blank">
+<a href="mailto:busycaesar@gmail.com" target="blank" style="text-decoration: none">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-<a href="https://dev.to/busycaesar" target="blank">
+<a href="https://dev.to/busycaesar" target="blank" style="text-decoration: none">
   <img src="https://skillicons.dev/icons?i=devto" />
 </a>
