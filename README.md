@@ -37,7 +37,7 @@ Full Stack Development, BASH Shell Scripting, Cloud Computing (AWS), CI/CD, Appl
 
 <h2>Connect with me:</h2>
 
-<a href="https://linkedin.com/in/busycaesar" target="blank">
+<a href="https://linkedin.com/in/busycaesar" target="blank" style="text-decoration: none">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="mailto:busycaesar@gmail.com" target="blank">
