@@ -14,7 +14,7 @@
 
 <h3>Technologies</h3>
 <img
-  src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,docker,mongodb,postgres,firebase,materialui,bootstrap"
+  src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,vite,docker,jest,mongodb,postgres,firebase,regex,tailwind,bootstrap,materialui"
 />
 
 <h3>Concepts</h3>
@@ -22,27 +22,31 @@ Object Oriented Programming, Web Development, JSON, AJAX, RESTful APIs, JWT,
 MVC, Web Accessibility, Regex
 
 <h3>Version Control Systems:</h3>
-<img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions" />
 
 <h3>Software Applications:</h3>
 <img
-  src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,discord"
+  src="https://skillicons.dev/icons?i=vscode,visualstudio,eclipse,postman,vercel,figma,discord"
 />
 
 <h3>Operating Systems:</h3>
-Windows, Linux, Terminal
+<img
+  src="https://skillicons.dev/icons?i=linux,windows"
+/>
 
 <h3>Currently Learning:</h3>
-Full Stack Development, BASH Shell Scripting, Cloud Computing (AWS), CI/CD, Application Development
+<img
+  src="https://skillicons.dev/icons?i=bash,vim,aws,java"
+/>
 
 <h2>Connect with me:</h2>
 
-<a href="https://linkedin.com/in/busycaesar" target="blank" style="text-decoration: none">
+<a href="https://linkedin.com/in/busycaesar" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="mailto:busycaesar@gmail.com" target="blank" style="text-decoration: none">
+<a href="mailto:busycaesar@gmail.com" target="blank">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-<a href="https://dev.to/busycaesar" target="blank" style="text-decoration: none">
+<a href="https://dev.to/busycaesar" target="blank">
   <img src="https://skillicons.dev/icons?i=devto" />
 </a>
