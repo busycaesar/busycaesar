@@ -6,12 +6,12 @@ An actively learning and quality-oriented developer, with an ability to adapt qu
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,cs,py,html,css,c,cpp" />
+<img src="https://skillicons.dev/icons?i=js,ts,cs,py,html,css,cpp,c" />
 
 ### Technologies
 
 <img
-  src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,vite,docker,jest,mongodb,postgres,firebase,regex,tailwind,bootstrap,materialui"
+  src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,vite,docker,jest,mongodb,postgres,firebase,tailwind,bootstrap,materialui"
 />
 
 ### Concepts
