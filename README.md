@@ -1,6 +1,6 @@
 # Dev Shah, Web Developer
 
-An actively learning and quality-oriented developer, with an ability to adapt quickly to new technology, committed to write clean, readable, and maintainable code for developing a high-quality and accessible product having the best user experience. Further, I have experience in interacting with clients, understanding their requirements, delivering the finest solutions. I aim to learn Full Stack Development along with knowledge in the areas of UI/UX Design and DevOps.
+An actively learning and quality-oriented developer, with a keen ability to adapt quickly to new technology, committed to developing optimized, clean, readable, and maintainable code for building a high-quality product. Further, I have experience in communicating with clients, understanding their requirements, delivering the finest as well as accessible solutions. My goal is to learn Full Stack Development along with knowledge in the areas of UI/UX Design and Cloud Computing and DevOps.
   
 ## Technical Skills
 
