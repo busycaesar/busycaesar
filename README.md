@@ -21,7 +21,7 @@ MVC, Web Accessibility, Regex
 
 ### Version Control Systems
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,npm" />
 
 ### Software Applications
 
