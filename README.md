@@ -6,7 +6,7 @@ An actively learning and quality-oriented developer, with a keen ability to adap
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,cs,py,html,css,cpp,c" />
+<img src="https://skillicons.dev/icons?i=js,ts,cs,py,html,css,java,cpp,c" />
 
 ### Technologies
 
@@ -38,7 +38,7 @@ MVC, Web Accessibility, Regex
 ### Currently Learning
 
 <img
-  src="https://skillicons.dev/icons?i=bash,vim,aws,java"
+  src="https://skillicons.dev/icons?i=bash,vim,aws"
 />
 
 ## Connect with me
