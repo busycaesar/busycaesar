@@ -6,12 +6,12 @@ An actively learning and quality-oriented developer, with a keen ability to adap
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,cs,py,html,css,java,cpp,c" />
+<img src="https://skillicons.dev/icons?i=js,ts,cs,py,html,css,java,cpp,c,md" />
 
 ### Technologies
 
 <img
-  src="https://skillicons.dev/icons?i=nodejs,express,react,nextjs,vite,docker,jest,mongodb,postgres,firebase,tailwind,bootstrap,materialui"
+  src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,nextjs,vite,docker,jest,mongodb,postgres,firebase,tailwind,bootstrap,materialui"
 />
 
 ### Concepts
@@ -43,18 +43,23 @@ MVC, Web Accessibility, Regex
 
 ## Connect with me
 
-<span>
 <a href="https://linkedin.com/in/busycaesar" target="blank">
+<span>
   <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
 </span>
+</a>
+<a href="https://twitter.com/busycaesar" target="blank">
 <span>
+  <img src="https://skillicons.dev/icons?i=twitter" />
+</span>
+</a>
 <a href="mailto:busycaesar@gmail.com" target="blank">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</span>
 <span>
-<a href="https://dev.to/busycaesar" target="blank">
-  <img src="https://skillicons.dev/icons?i=devto" />
-</a>
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </span>
+</a>
+<a href="https://dev.to/busycaesar" target="blank">
+<span>
+  <img src="https://skillicons.dev/icons?i=devto" />
+</span>
+</a>
