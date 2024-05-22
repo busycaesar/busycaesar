@@ -32,7 +32,7 @@ MVC, Web Accessibility, Regex
 ### Operating Systems
 
 <img
-  src="https://skillicons.dev/icons?i=linux,windows"
+  src="https://skillicons.dev/icons?i=linux,ubuntu,windows"
 />
 
 ### Currently Learning
