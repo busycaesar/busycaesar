@@ -38,7 +38,7 @@ MVC, Web Accessibility, Regex
 ### Currently Learning
 
 <img
-  src="https://skillicons.dev/icons?i=aws"
+  src="https://skillicons.dev/icons?i=aws,azure"
 />
 
 ## Connect with me
