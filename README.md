@@ -1,4 +1,4 @@
-# Dev Shah, Web Developer
+# Dev Shah, Software Developer
 
 An actively learning and quality-oriented developer, with a keen ability to adapt quickly to new technology, committed to developing optimized, clean, readable, and maintainable code for building a high-quality product. Further, I have experience in communicating with clients, understanding their requirements, delivering the finest as well as accessible solutions. My goal is to learn Full Stack Development along with knowledge in the areas of UI/UX Design, Cloud Computing and DevOps.
   
