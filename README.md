@@ -11,7 +11,7 @@ An actively learning and quality-oriented developer, with a keen ability to adap
 ### Technologies
 
 <img
-  src="https://skillicons.dev/icons?i=nodejs,express,nestjs,react,nextjs,vite,docker,jest,mongodb,postgres,firebase,tailwind,bootstrap,materialui"
+  src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,nestjs,docker,jest,mongodb,postgres,firebase,tailwind,bootstrap,materialui"
 />
 
 ### Concepts
