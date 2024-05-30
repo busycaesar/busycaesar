@@ -6,7 +6,7 @@ An actively learning and quality-oriented developer, with a keen ability to adap
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,cs,py,bash,html,css,java,cpp,c,md" />
+<img src="https://skillicons.dev/icons?i=js,ts,cs,py,bash,java,cpp,c,html,css,md" />
 
 ### Technologies
 
@@ -23,17 +23,24 @@ MVC, Web Accessibility, Regex
 
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,npm" />
 
-### Software Applications
-
-<img
-  src="https://skillicons.dev/icons?i=vim,vscode,visualstudio,idea,eclipse,postman,vercel,figma,pr,discord,notion,obsidian"
-/>
-
 ### Operating Systems
 
 <img
   src="https://skillicons.dev/icons?i=linux,ubuntu,windows"
 />
+
+### Code Editors / IDE
+
+<img
+  src="https://skillicons.dev/icons?i=vim,vscode,visualstudio,idea,eclipse"
+/>
+
+### Applications
+
+<img
+  src="https://skillicons.dev/icons?i=postman,vercel,figma,pr,discord,notion,obsidian"
+/>
+
 
 ### Currently Learning
 
