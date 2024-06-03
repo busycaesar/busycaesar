@@ -29,7 +29,7 @@ MVC, Web Accessibility, Regex
   src="https://skillicons.dev/icons?i=linux,ubuntu,windows"
 />
 
-### Code Editors / IDE
+### Code Editors / IDEs
 
 <img
   src="https://skillicons.dev/icons?i=vim,vscode,visualstudio,idea,eclipse"
