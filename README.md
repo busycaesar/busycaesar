@@ -56,7 +56,7 @@ MVC, Web Accessibility, Regex
 <a href="https://twitter.com/busycaesar" target="blank">
   <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
-<a href="mailto:busycaesar@gmail.com" target="blank">
+<a href="mailto:dev-jshah@outlook.com" target="blank">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 <a href="https://dev.to/busycaesar" target="blank">
