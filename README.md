@@ -5,29 +5,29 @@ An actively learning and quality-oriented Full Stack Developer with a keen abili
 ## Technical Skills
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,cs,py,bash,java,cpp,c,html,css,md)
+![Languages](https://skillicons.dev/icons?i=js,ts,cs,py,bash,java,cpp,c,html,css,md&perline=10)
 
 ### Technologies
-![Technologies](https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,nestjs,docker,jest,mongodb,postgres,firebase,redis,sqlite,tailwind,bootstrap,materialui)
+![Technologies](https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,nestjs,docker,jest,mongodb,postgres,firebase,redis,sqlite,tailwind,bootstrap,materialui&perline=10)
 
 ### Concepts
 Object Oriented Programming, Web Development, JSON, AJAX, RESTful APIs, JWT,
 MVC, Web Accessibility, Regex
 
 ### Version Control Systems
-![Version Control Systems](https://skillicons.dev/icons?i=git,github,githubactions,npm)
+![Version Control Systems](https://skillicons.dev/icons?i=git,github,githubactions,npm&perline=10)
 
 ### Operating Systems
-![Operating Systems](https://skillicons.dev/icons?i=linux,ubuntu,windows)
+![Operating Systems](https://skillicons.dev/icons?i=linux,ubuntu,windows&perline=10)
 
 ### Code Editors / IDEs
-![Code Editors / IDEs](https://skillicons.dev/icons?i=vim,vscode,visualstudio,idea,eclipse)
+![Code Editors / IDEs](https://skillicons.dev/icons?i=vim,vscode,visualstudio,idea,eclipse&perline=10)
 
 ### Applications
-![Applications](https://skillicons.dev/icons?i=postman,vercel,figma,pr,discord,notion,obsidian)
+![Applications](https://skillicons.dev/icons?i=postman,vercel,figma,pr,discord,notion,obsidian&perline=10)
 
 ### Currently Learning
-![Currently Learning](https://skillicons.dev/icons?i=aws,azure)
+![Currently Learning](https://skillicons.dev/icons?i=aws,azure&perline=10)
 
 ## Connect with me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/busycaesar)
