@@ -25,8 +25,11 @@ An actively learning and quality-oriented Full Stack Developer with a keen abili
 ### Currently Learning
 ![Currently Learning](https://skillicons.dev/icons?i=aws,azure)
 
+## Checkout my content
+- [YouTube Videos](https://www.youtube.com/@_devshah)
+- [Blogs](https://dev.to/busycaesar)
+
 ## Connect with me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/busycaesar)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/busycaesar)
 [![Email](https://skillicons.dev/icons?i=gmail)](mailto:dev-jshah@outlook.com)
-[![Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/busycaesar)
