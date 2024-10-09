@@ -5,8 +5,8 @@ An actively learning and quality-oriented Full Stack Developer with a keen abili
 Email: [dev-jshah@outlook.com](mailto:dev-jshah@outlook.com)
 
 ## Checkout my content
-- [YouTube Videos](https://www.youtube.com/@busycaesar7)
-- [Blogs](https://dev.to/busycaesar)
+[![Videos](https://www.google.com/s2/favicons?sz=64&domain=youtube.com)](https://www.youtube.com/@busycaesar7)
+[![Blogs](https://www.google.com/s2/favicons?sz=64&domain=dev.to)](https://dev.to/busycaesar)
 
 ## Technical Skills
 
