@@ -4,6 +4,10 @@ An actively learning and quality-oriented Full Stack Developer with a keen abili
 
 Email: [dev-jshah@outlook.com](mailto:dev-jshah@outlook.com)
 
+## Checkout my content
+- [YouTube Videos](https://www.youtube.com/@busycaesar7)
+- [Blogs](https://dev.to/busycaesar)
+
 ## Technical Skills
 
 ### Languages
@@ -17,10 +21,6 @@ Email: [dev-jshah@outlook.com](mailto:dev-jshah@outlook.com)
 
 ### Currently Learning
 ![Currently Learning](https://skillicons.dev/icons?i=aws,azure)
-
-## Checkout my content
-- [YouTube Videos](https://www.youtube.com/@_devshah)
-- [Blogs](https://dev.to/busycaesar)
 
 ## Connect with me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/busycaesar)
