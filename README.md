@@ -11,13 +11,25 @@ Email: [dev-jshah@outlook.com](mailto:dev-jshah@outlook.com)
 ## Technical Skills
 
 ### Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,cs,py,java,html,css)
+![Languages](https://skillicons.dev/icons?i=py,js,ts,cs,java,bash,cpp,c,html,css)
 
-### Technologies
-![Technologies](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,git,github,jest,docker,githubactions)
+### Frontend
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,vite,angular,flutter)
+
+### Backend
+![Backend](https://skillicons.dev/icons?i=flask,nodejs,express,deno,nestjs)
 
 ### Database
 ![Database](https://skillicons.dev/icons?i=mongo,postgres,mysql,redis,firebase)
+
+### DevOps and Tools
+![DevOps and Tools](https://skillicons.dev/icons?i=git,github,npm,jest,postman,docker,githubactions,figma)
+
+### OS
+![OS](https://skillicons.dev/icons?i=linux,windows)
+
+### Code Editors and IDEs
+![Code Editors and IDEs](https://skillicons.dev/icons?i=eclipse,idea,vim,visualstudio,vscode)
 
 ### Currently Learning
 ![Currently Learning](https://skillicons.dev/icons?i=aws,azure)
