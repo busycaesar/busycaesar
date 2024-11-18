@@ -1,6 +1,6 @@
 # Dev Shah, Software Developer
 
-An actively learning and quality-oriented Full Stack Developer with a keen ability to adapt quickly to new technologies. I am committed to developing optimized, clean, and maintainable code for building high-quality products. I excel in communicating with clients, understanding their requirements, and delivering accessible and effective solutions. Additionally, I have experience in setting up CI/CD pipelines, automating repetitive tasks, deployment, and cloud computing.
+A detail-oriented Full Stack Developer with expertise in building scalable web applications, APIs, and cloud-based solutions. I specialize in creating clean, maintainable code, optimizing workflows, and setting up CI/CD pipelines to deliver high-quality, user-friendly products. With experience in AI application development and a strong focus on accessibility and client collaboration, I ensure tailored solutions that meet unique needs. I am passionate about learning new technologies and delivering impactful results that exceed expectations.
 
 Email: [dev-jshah@outlook.com](mailto:dev-jshah@outlook.com)
 
