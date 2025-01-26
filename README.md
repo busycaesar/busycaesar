@@ -29,10 +29,7 @@ Email: [dev-jshah@outlook.com](mailto:dev-jshah@outlook.com)
 ![OS](https://skillicons.dev/icons?i=linux,windows)
 
 ### Code Editors and IDEs
-![Code Editors and IDEs](https://skillicons.dev/icons?i=eclipse,idea,vim,visualstudio,vscode)
-
-### Currently Learning
-![Currently Learning](https://skillicons.dev/icons?i=aws,azure)
+![Code Editors and IDEs](https://skillicons.dev/icons?i=vscode,vim,idea,visualstudio,eclipse)
 
 ## Connect with me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/busycaesar)
