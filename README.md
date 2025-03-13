@@ -7,17 +7,9 @@
 
 A detail-oriented Full Stack Developer with expertise in building scalable web applications, APIs, and cloud-based solutions. I specialize in creating clean, maintainable code, optimizing workflows, and setting up CI/CD pipelines to deliver high-quality, user-friendly products. With experience in AI application development and a strong focus on accessibility and client collaboration, I ensure tailored solutions that meet unique needs. I am passionate about learning new technologies and delivering impactful results that exceed expectations.
 
-## Latest YouTube Videos
-
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-
-▶️ [more videos...](https://www.youtube.com/@busycaesar)
-
-## Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-▶️ [more blog posts...](https://dev.to/busycaesar)
+## Content
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@busycaesar)
+[![Dev.to](https://img.shields.io/badge/Dev.to-black.svg?style=for-the-badge)](https://dev.to/busycaesar)
 
 ## Notes
 
