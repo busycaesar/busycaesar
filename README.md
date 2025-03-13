@@ -1,12 +1,34 @@
-# Dev Shah, Full Stack Developer & AI Evangelist
+# Dev Shah
+## Full Stack Developer & AI Evangelist
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/busycaesar)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/busycaesar)
+[![Email](https://img.shields.io/badge/Email-gray.svg?style=for-the-badge)](mailto:dev-jshah@outlook.com)
 
 A detail-oriented Full Stack Developer with expertise in building scalable web applications, APIs, and cloud-based solutions. I specialize in creating clean, maintainable code, optimizing workflows, and setting up CI/CD pipelines to deliver high-quality, user-friendly products. With experience in AI application development and a strong focus on accessibility and client collaboration, I ensure tailored solutions that meet unique needs. I am passionate about learning new technologies and delivering impactful results that exceed expectations.
 
-Email: [dev-jshah@outlook.com](mailto:dev-jshah@outlook.com)
+## Latest YouTube Videos
 
-## Checkout my content
-[![Videos](https://www.google.com/s2/favicons?sz=64&domain=youtube.com)](https://www.youtube.com/@busycaesar7)
-[![Blogs](https://www.google.com/s2/favicons?sz=64&domain=dev.to)](https://dev.to/busycaesar)
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+▶️ [more videos...](https://www.youtube.com/@busycaesar)
+
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+▶️ [more blog posts...](https://dev.to/busycaesar)
+
+## Notes
+
+- [AI Model Terms](https://aimodelterms.shahtech.info): A curated list of AI-related terms with explanations based on research papers and books I have read. Useful for anyone learning AI and exploring academic materials.
+- [Harvard C50AI](https://cs50ai.shahtech.info): Notes and insights from Harvard CS50's Introduction to Artificial Intelligence with Python.
+- [AZ 900](https://az900.shahtech.info): Notes for AZ 900
+
+## Support
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/busycaesar)
+[![Topmate](https://img.shields.io/badge/topmate-red.svg?style=for-the-badge)](https://topmate.io/busycaesar)
 
 ## Technical Skills
 
@@ -30,7 +52,3 @@ Email: [dev-jshah@outlook.com](mailto:dev-jshah@outlook.com)
 
 ### Code Editors and IDEs
 ![Code Editors and IDEs](https://skillicons.dev/icons?i=vscode,vim,idea,visualstudio,eclipse)
-
-## Connect with me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/busycaesar)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/busycaesar)
