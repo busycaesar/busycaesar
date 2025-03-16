@@ -6,8 +6,6 @@
 [![Email](https://img.shields.io/badge/Email-white.svg?style=for-the-badge)](mailto:dev-jshah@outlook.com)
 [![Topmate](https://img.shields.io/badge/topmate-red.svg?style=for-the-badge)](https://topmate.io/busycaesar)
 
----
-
 A detail-oriented Full Stack Developer with expertise in building scalable web applications, APIs, and cloud-based solutions. I specialize in creating clean, maintainable code, optimizing workflows, and setting up CI/CD pipelines to deliver high-quality, user-friendly products. With experience in AI application development and a strong focus on accessibility and client collaboration, I ensure tailored solutions that meet unique needs. I am passionate about learning new technologies and delivering impactful results that exceed expectations.
 
 | Get My Info | Start My Interactive Resume |
