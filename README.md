@@ -56,4 +56,7 @@ A detail-oriented Full Stack Developer with expertise in building scalable web a
 ---
 
 ## GitHub Stats
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=busycaesar&theme=github-dark-dimmed&custom_title=Activity%20Graph&hide_border=true)](https://github.com/busycaesar/github-readme-activity-graph)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=busycaesar&theme=ads-juicy-fresh)](https://git.io/streak-stats)
