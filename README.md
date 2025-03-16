@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/busycaesar)
 [![Website](https://img.shields.io/badge/Website-orange.svg?style=for-the-badge)](https://shahtech.info)
 [![Email](https://img.shields.io/badge/Email-white.svg?style=for-the-badge)](mailto:dev-jshah@outlook.com)
+[![Topmate](https://img.shields.io/badge/topmate-red.svg?style=for-the-badge)](https://topmate.io/busycaesar)
 
 ---
 
@@ -12,7 +13,7 @@ A detail-oriented Full Stack Developer with expertise in building scalable web a
 ---
 
 ## Technical Skills
-![Technical Skills](https://skillicons.dev/icons?i=py,js,java,react,nextjs,flask,nodejs,mongo,postgres,redis,docker,linux,vscode,vim)
+![Technical Skills](https://skillicons.dev/icons?i=py,js,java,react,nextjs,flask,nodejs,mongo,postgres,redis,docker,linux,vscode,vim&perline=7)
 
 ---
 
@@ -51,12 +52,10 @@ A detail-oriented Full Stack Developer with expertise in building scalable web a
 
 ## Support
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/busycaesar)
-[![Topmate](https://img.shields.io/badge/topmate-red.svg?style=for-the-badge)](https://topmate.io/busycaesar)
 
 ---
 
 ## GitHub Stats
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=busycaesar&theme=github-dark-dimmed&custom_title=Activity%20Graph&hide_border=true)](https://github.com/busycaesar/github-readme-activity-graph)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=busycaesar&theme=ads-juicy-fresh)](https://git.io/streak-stats)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=busycaesar&theme=github-dark-dimmed&custom_title=Activity%20Graph&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=busycaesar&theme=ads-juicy-fresh)
