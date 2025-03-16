@@ -45,7 +45,7 @@ A detail-oriented Full Stack Developer with expertise in building scalable web a
 
 ## Notes
 - [AI Model Terms](https://aimodelterms.shahtech.info): A curated list of AI-related terms with explanations based on research papers and books I have read. Useful for anyone learning AI and exploring academic materials.
-- [Harvard C50AI](https://cs50ai.shahtech.info): Notes and insights from Harvard CS50's Introduction to Artificial Intelligence with Python.
+- [Harvard CS50AI](https://cs50ai.shahtech.info): Notes and insights from Harvard CS50's Introduction to Artificial Intelligence with Python.
 - [AZ 900](https://az900.shahtech.info): Notes for AZ 900
 
 ---
