@@ -9,6 +9,11 @@ A detail-oriented Full Stack Developer with expertise in building scalable web a
 
 ## Content
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [DeepSeek R1 #deepseek](https://www.youtube.com/watch?v=sRcyrOnLnmw)
+- [Generated Response by DeepSeek! #deepseek #ollama](https://www.youtube.com/watch?v=k0pqCuack4s)
+- [Run DeepSeek Locally using Ollama #deepseek #ollama #docker](https://www.youtube.com/watch?v=P4md9Y9uqQI)
+- [DeepSeek R1, Reasoning Model  #deepseek #genai #llm](https://www.youtube.com/watch?v=L1Wk0fufZV4)
+- [Run Deepseek R1 locally using Ollama](https://www.youtube.com/watch?v=JJnVHciLeUo)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@busycaesar)
