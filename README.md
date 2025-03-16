@@ -19,6 +19,11 @@ A detail-oriented Full Stack Developer with expertise in building scalable web a
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@busycaesar)
 
 <!-- BLOG-POST-LIST:START -->
+- [Model Context Protocol &lpar;MCP&rpar;: Bridging LLM applications with external data sources and tools](https://dev.to/busycaesar/mcp-model-context-protocol-4o1l)
+- [Isolate projects using Docker and Dev Containers by VS Code](https://dev.to/busycaesar/isolate-projects-using-docker-and-dev-containers-by-vs-code-1lb1)
+- [Decoding DeepSeek R1&#39;s Research Abstract](https://dev.to/busycaesar/decoding-deepseek-r1s-research-abstract-4cgi)
+- [Configure self-hosted runner for GitHub Actions](https://dev.to/busycaesar/configure-self-hosted-runner-for-github-actions-j1b)
+- [Dev Wrap 2024](https://dev.to/busycaesar/dev-retro-2024-1)
 <!-- BLOG-POST-LIST:END -->
 [![Dev.to](https://img.shields.io/badge/Dev.to-black.svg?style=for-the-badge)](https://dev.to/busycaesar)
 
