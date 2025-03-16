@@ -2,7 +2,8 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/busycaesar)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/busycaesar)
-[![Email](https://img.shields.io/badge/Email-gray.svg?style=for-the-badge)](mailto:dev-jshah@outlook.com)
+[![Website](https://img.shields.io/badge/Website-orange.svg?style=for-the-badge)](https://shahtech.info)
+[![Email](https://img.shields.io/badge/Email-white.svg?style=for-the-badge)](mailto:dev-jshah@outlook.com)
 
 ---
 
