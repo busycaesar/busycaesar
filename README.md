@@ -1,6 +1,6 @@
 # Dev Shah, Full Stack Developer & AI Evangelist
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/busycaesar)
+[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/busycaesar)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/busycaesar)
 [![Website](https://img.shields.io/badge/Website-orange.svg?style=for-the-badge)](https://shahtech.info)
 [![Email](https://img.shields.io/badge/Email-white.svg?style=for-the-badge)](mailto:dev-jshah@outlook.com)
@@ -8,9 +8,9 @@
 
 A detail-oriented Full Stack Developer with expertise in building scalable web applications, APIs, and cloud-based solutions. I specialize in creating clean, maintainable code, optimizing workflows, and setting up CI/CD pipelines to deliver high-quality, user-friendly products. With experience in AI application development and a strong focus on accessibility and client collaboration, I ensure tailored solutions that meet unique needs. I am passionate about learning new technologies and delivering impactful results that exceed expectations.
 
-| Get My Info | Start My Interactive Resume |
-|----------|----------|
-| `curl -Ls cli.shahtech.info` | `bash <(curl -Ls bash.shahtech.info)` |
+| Get My Info | Start My Interactive Resume | Resume PDF |
+|----------|----------|----------|
+| `curl -Ls cli.shahtech.info` | `bash <(curl -Ls bash.shahtech.info)` | [![Resume](https://img.shields.io/badge/Resume-528BFF.svg?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1b9YPYbk-olEMgBDzHtYjJ6FI2zm-Y9_c/view?usp=sharing) |
 
 ---
 
