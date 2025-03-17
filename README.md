@@ -10,7 +10,7 @@ A detail-oriented Full Stack Developer with expertise in building scalable web a
 
 | Get My Info | Start My Interactive Resume | Resume PDF |
 |----------|----------|----------|
-| `curl -Ls cli.shahtech.info` | `bash <(curl -Ls bash.shahtech.info)` | [![Resume](https://img.shields.io/badge/Resume-528BFF.svg?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1b9YPYbk-olEMgBDzHtYjJ6FI2zm-Y9_c/view?usp=sharing) |
+| `curl -Ls cli.shahtech.info` | `bash <(curl -Ls bash.shahtech.info)` | [![Resume](https://myresume.shahtech.info) |
 
 ---
 
