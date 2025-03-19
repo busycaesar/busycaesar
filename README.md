@@ -22,11 +22,11 @@ A detail-oriented Full Stack Developer with expertise in building scalable web a
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Retrieval-Augmented Generation &lpar;RAG&rpar; Pipeline #rag #retrievalaugmentedgeneration #llms](https://www.youtube.com/watch?v=nNZtwKyzR3E)
 - [Model Context Protocol Practical Workflow #mcp](https://www.youtube.com/watch?v=YdZ7thiejrA)
 - [Model Content Protocol Overview #mcp](https://www.youtube.com/watch?v=mYBLRagiflQ)
 - [Understand Model Context Protocol &lpar;MCP&rpar;!](https://www.youtube.com/watch?v=FyaaLhdLdbI)
 - [DeepSeek R1 #deepseek](https://www.youtube.com/watch?v=sRcyrOnLnmw)
-- [Generated Response by DeepSeek! #deepseek #ollama](https://www.youtube.com/watch?v=k0pqCuack4s)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 **More Videos**: [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@busycaesar)
