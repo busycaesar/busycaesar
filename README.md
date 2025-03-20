@@ -1,5 +1,7 @@
 # Dev Shah, Full Stack Developer & AI Evangelist
 
+## #OpenToWork
+
 [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/busycaesar)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/busycaesar)
 [![Website](https://img.shields.io/badge/Website-orange.svg?style=for-the-badge)](https://shahtech.info)
