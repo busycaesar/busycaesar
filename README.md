@@ -24,7 +24,7 @@ A detail-oriented Full Stack Developer with expertise in building scalable web a
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Vibe Coding Session!](https://www.youtube.com/watch?v=u5QG6DJdHWs)
+- [Vibe Coding Session! #vibecoding #programming #ai #softwareengineer](https://www.youtube.com/watch?v=u5QG6DJdHWs)
 - [Vibe Coding Session!](https://www.youtube.com/watch?v=PRYXtTv1vl0)
 - [Retrieval-Augmented Generation &lpar;RAG&rpar; Pipeline #rag #retrievalaugmentedgeneration #llms](https://www.youtube.com/watch?v=nNZtwKyzR3E)
 - [Model Context Protocol Practical Workflow #mcp](https://www.youtube.com/watch?v=YdZ7thiejrA)
