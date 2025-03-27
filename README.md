@@ -24,11 +24,11 @@ A detail-oriented Full Stack Developer with expertise in building scalable web a
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Build With AI ​⁠by @googlecloud! @Google #googlecloud #google #buildwithai](https://www.youtube.com/watch?v=u1qx0PVUsGk)
 - [Hypothetical Document Embeddings &lpar;HyDE&rpar; #HyDE #rag #retrievalaugmentedgeneration #programming](https://www.youtube.com/watch?v=Ki9bPF2-N8c)
 - [HyDE: Hypothetical Document Embeddings, a RAG technique](https://www.youtube.com/watch?v=7yWV7vskwXw)
 - [Vibe Coding Session! #vibecoding #programming #ai #softwareengineer](https://www.youtube.com/watch?v=u5QG6DJdHWs)
 - [Vibe Coding Session!](https://www.youtube.com/watch?v=PRYXtTv1vl0)
-- [Retrieval-Augmented Generation &lpar;RAG&rpar; Pipeline #rag #retrievalaugmentedgeneration #llms](https://www.youtube.com/watch?v=nNZtwKyzR3E)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 **More Videos**: [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@busycaesar)
