@@ -60,5 +60,4 @@ A detail-oriented Software Engineer with expertise in building scalable web appl
 
 ## GitHub Stats
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=busycaesar&theme=github-dark-dimmed&custom_title=Activity%20Graph&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=busycaesar&theme=ads-juicy-fresh)
