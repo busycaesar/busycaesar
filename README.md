@@ -34,11 +34,11 @@ A detail-oriented Software Engineer with expertise in building scalable web appl
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI-900 Guide: From Prep to Pass](https://dev.to/busycaesar/ai-900-guide-from-prep-to-pass-23kg)
+- [Career Reflection: No More Survival Jobs](https://dev.to/busycaesar/dont-read-this-blog-eg3)
 - [Embeddings &amp; Cosine Similarity Explained Simply](https://dev.to/busycaesar/embeddings-cosine-similarity-4541)
 - [Linear Regression Model using Math!](https://dev.to/busycaesar/regression-model-405j)
 - [Machine Learning 101](https://dev.to/busycaesar/introduction-to-machine-learning-a22)
-- [Proximal Policy Optimization &lpar;PPO&rpar; and Generalized Reinforcement Learning with Proximal Optimizer &lpar;GRPO&rpar;](https://dev.to/busycaesar/proximal-policy-optimization-ppo-and-generalized-reinforcement-learning-with-proximal-optimizer-2369)
-- [Exploring RAG: Hypothetical Document Embeddings &lpar;HyDE&rpar;](https://dev.to/busycaesar/exploring-rag-hypothetical-document-embeddings-hyde-43an)
 <!-- BLOG-POST-LIST:END -->
 
 **More Posts**: [![Dev.to](https://img.shields.io/badge/Dev.to-black.svg?style=for-the-badge)](https://dev.to/busycaesar)
