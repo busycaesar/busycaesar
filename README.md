@@ -34,11 +34,11 @@ A detail-oriented Software Engineer with expertise in building scalable web appl
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Retrieval Algorithms Shape Better LLM Responses?](https://dev.to/busycaesar/how-retrieval-algorithms-shape-better-llm-responses-5beo)
 - [AI-900 Guide: From Prep to Pass](https://dev.to/busycaesar/ai-900-guide-from-prep-to-pass-23kg)
 - [Career Reflection: No More Survival Jobs](https://dev.to/busycaesar/dont-read-this-blog-eg3)
 - [Embeddings &amp; Cosine Similarity Explained Simply](https://dev.to/busycaesar/embeddings-cosine-similarity-4541)
 - [Linear Regression Model using Math!](https://dev.to/busycaesar/regression-model-405j)
-- [Machine Learning 101](https://dev.to/busycaesar/introduction-to-machine-learning-a22)
 <!-- BLOG-POST-LIST:END -->
 
 **More Posts**: [![Dev.to](https://img.shields.io/badge/Dev.to-black.svg?style=for-the-badge)](https://dev.to/busycaesar)
