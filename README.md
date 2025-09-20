@@ -46,7 +46,7 @@ A detail-oriented Software Engineer with expertise in building scalable web appl
 ---
 
 ## Notes
-- [AWS Solution Architect Associate](https://saa-c03.shahtech.info): Notes for SAA-C03
+- [AWS Solutions Architect Associate](https://saa-c03.shahtech.info): Notes for SAA-C03
 - [AI 900](https://ai900.shahtech.info): Notes for AI 900
 - [AI Model Terms](https://aimodelterms.shahtech.info): A curated list of AI-related terms with explanations based on research papers and books I have read. Useful for anyone learning AI and exploring academic materials.
 - [Harvard CS50AI](https://cs50ai.shahtech.info): Notes and insights from Harvard CS50's Introduction to Artificial Intelligence with Python.
