@@ -5,6 +5,7 @@
 [![Website](https://img.shields.io/badge/Website-orange.svg?style=for-the-badge)](https://shahtech.info)
 [![Email](https://img.shields.io/badge/Email-white.svg?style=for-the-badge)](mailto:dev-jshah@outlook.com)
 [![Topmate](https://img.shields.io/badge/topmate-red.svg?style=for-the-badge)](https://topmate.io/busycaesar)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/busycaesar)
 
 A detail-oriented Software Engineer with expertise in building scalable web applications, APIs, and cloud-based solutions. I specialize in creating clean, maintainable code, optimizing workflows, and setting up CI/CD pipelines to deliver high-quality, user-friendly products. With experience in AI application development and a strong focus on accessibility and client collaboration, I ensure tailored solutions that meet unique needs. I am passionate about learning new technologies and delivering impactful results that exceed expectations.
 
@@ -16,6 +17,21 @@ A detail-oriented Software Engineer with expertise in building scalable web appl
 
 ## Technical Skills
 ![Technical Skills](https://skillicons.dev/icons?i=py,js,java,react,nextjs,flask,nodejs,mongo,postgres,redis,docker,linux,vscode,vim&perline=7)
+
+---
+
+## Certificates
+- [Generative AI Leader](https://www.credly.com/earner/earned/badge/11e20051-d8b9-4520-8906-9d90dcd0db40)
+- [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/busycaesar/credentials/e484210d8c19cdc9)
+
+---
+
+## Notes
+- [SAA-C03](https://saa-c03.shahtech.info): Notes for AWS Certified Solutions Architect - Associate
+- [AI 900](https://ai900.shahtech.info): Notes for Microsoft Certified: Azure AI Fundamentals
+- [AI Model Terms](https://aimodelterms.shahtech.info): A curated list of AI-related terms with explanations based on research papers and books I have read. Useful for anyone learning AI and exploring academic materials.
+- [Harvard CS50AI](https://cs50ai.shahtech.info): Notes and insights from Harvard CS50's Introduction to Artificial Intelligence with Python.
+- [AZ 900](https://az900.shahtech.info): Notes for Microsoft Certified: Azure Fundamentals
 
 ---
 
@@ -43,22 +59,10 @@ A detail-oriented Software Engineer with expertise in building scalable web appl
 
 **More Posts**: [![Dev.to](https://img.shields.io/badge/Dev.to-black.svg?style=for-the-badge)](https://dev.to/busycaesar)
 
----
-
-## Notes
-- [SAA-C03](https://saa-c03.shahtech.info): Notes for AWS Certified Solutions Architect - Associate
-- [AI 900](https://ai900.shahtech.info): Notes for Microsoft Certified: Azure AI Fundamentals
-- [AI Model Terms](https://aimodelterms.shahtech.info): A curated list of AI-related terms with explanations based on research papers and books I have read. Useful for anyone learning AI and exploring academic materials.
-- [Harvard CS50AI](https://cs50ai.shahtech.info): Notes and insights from Harvard CS50's Introduction to Artificial Intelligence with Python.
-- [AZ 900](https://az900.shahtech.info): Notes for Microsoft Certified: Azure Fundamentals
-
----
-
-## Support
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/busycaesar)
-
+<!--
 ---
 
 ## GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=busycaesar&theme=ads-juicy-fresh)
+-->
