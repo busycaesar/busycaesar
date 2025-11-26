@@ -11,7 +11,7 @@ A detail-oriented Software Engineer with expertise in building scalable web appl
 
 Get Info: `curl -Ls cli.shahtech.info`
 
-Interactie Resume: `bash <(curl -Ls bash.shahtech.info)`
+Interactive Resume: `bash <(curl -Ls bash.shahtech.info)`
 
 ---
 
