@@ -50,11 +50,11 @@ Interactive Resume: `bash <(curl -Ls bash.shahtech.info)`
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Model Adaptation: Prompt-Based Techniques vs Fine-Tuning](https://dev.to/busycaesar/model-adaptation-prompt-based-techniques-vs-fine-tuning-3131)
 - [Why Am I a SWE?](https://dev.to/busycaesar/why-am-i-a-swe-1246)
 - [How Retrieval Algorithms Shape Better LLM Responses?](https://dev.to/busycaesar/how-retrieval-algorithms-shape-better-llm-responses-5beo)
 - [AI-900 Guide: From Prep to Pass](https://dev.to/busycaesar/ai-900-guide-from-prep-to-pass-23kg)
 - [Career Reflection: No More Survival Jobs](https://dev.to/busycaesar/dont-read-this-blog-eg3)
-- [Embeddings &amp; Cosine Similarity Explained Simply](https://dev.to/busycaesar/embeddings-cosine-similarity-4541)
 <!-- BLOG-POST-LIST:END -->
 
 **More Posts**: [![Dev.to](https://img.shields.io/badge/Dev.to-black.svg?style=for-the-badge)](https://dev.to/busycaesar)
