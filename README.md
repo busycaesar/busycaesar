@@ -23,6 +23,7 @@ Interactive Resume: `bash <(curl -Ls bash.shahtech.info)`
 ## Certificates
 - [Generative AI Leader](https://www.credly.com/earner/earned/badge/11e20051-d8b9-4520-8906-9d90dcd0db40)
 - [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/busycaesar/credentials/e484210d8c19cdc9)
+- [AWS Certified Cloud Practitioner](https://www.linkedin.com/in/busycaesar/details/certifications/1769003569599/single-media-viewer)
 
 ---
 
