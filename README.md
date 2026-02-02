@@ -39,11 +39,11 @@ Interactive Resume: `bash <(curl -Ls bash.shahtech.info)`
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Post-training vs Fine-tuning](https://www.youtube.com/shorts/1RBp12U9laU)
+- [Human-in-th-loop](https://www.youtube.com/shorts/GSdx1jw5eLg)
 - [Meta Prompting #metaprompting #promptengineering](https://www.youtube.com/shorts/4CKvq8Cgrhg)
 - [AI-900 Exam Study Guide: Pass Microsoft Azure AI Certification Fast!](https://www.youtube.com/watch?v=X3jATJs1nuo)
 - [Career Update](https://www.youtube.com/watch?v=dS2kRN7nlv0)
-- [Build With AI ​⁠by @googlecloud! @Google #googlecloud #google #buildwithai](https://www.youtube.com/shorts/u1qx0PVUsGk)
-- [Hypothetical Document Embeddings &lpar;HyDE&rpar; #HyDE #rag #retrievalaugmentedgeneration #programming](https://www.youtube.com/shorts/Ki9bPF2-N8c)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 **More Videos**: [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@busycaesar)
