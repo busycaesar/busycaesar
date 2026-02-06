@@ -39,11 +39,11 @@ Interactive Resume: `bash <(curl -Ls bash.shahtech.info)`
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [AI as a Judge #aiasajudge #aiengineering #artificialintelligence #generativeai #largelanguagemodels](https://www.youtube.com/shorts/YG4NCWqR05E)
 - [Post-training vs Fine-tuning](https://www.youtube.com/shorts/1RBp12U9laU)
 - [Human-in-th-loop](https://www.youtube.com/shorts/GSdx1jw5eLg)
 - [Meta Prompting #metaprompting #promptengineering](https://www.youtube.com/shorts/4CKvq8Cgrhg)
 - [AI-900 Exam Study Guide: Pass Microsoft Azure AI Certification Fast!](https://www.youtube.com/watch?v=X3jATJs1nuo)
-- [Career Update](https://www.youtube.com/watch?v=dS2kRN7nlv0)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 **More Videos**: [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@busycaesar)
