@@ -39,11 +39,11 @@ Interactive Resume: `bash <(curl -Ls bash.shahtech.info)`
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Model Registry #modelregistry #llm #foundationalmodel #generativeai #artificialintelligence](https://www.youtube.com/shorts/JrzmH0ZNY-s)
+- [Foundational Model vs LLM #foundationalmodel #llm #aiengineering #artificialintelligence](https://www.youtube.com/shorts/jAWTyYL3Z2k)
 - [AI Agent #aiengineering #artificialintelligence #generativeai](https://www.youtube.com/shorts/un_-lonxXrU)
 - [AI as a Judge #aiasajudge #aiengineering #artificialintelligence #generativeai #largelanguagemodels](https://www.youtube.com/shorts/YG4NCWqR05E)
 - [Post-training vs Fine-tuning](https://www.youtube.com/shorts/1RBp12U9laU)
-- [Human-in-th-loop](https://www.youtube.com/shorts/GSdx1jw5eLg)
-- [Meta Prompting #metaprompting #promptengineering](https://www.youtube.com/shorts/4CKvq8Cgrhg)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 **More Videos**: [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@busycaesar)
