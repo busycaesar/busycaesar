@@ -51,11 +51,11 @@ Interactive Resume: `bash <(curl -Ls bash.shahtech.info)`
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hands-on: Azure AI Search &amp; AI Foundry for RAG](https://dev.to/busycaesar/hands-on-azure-ai-search-ai-foundry-for-rag-3i9g)
 - [5 AI Agent Design Patterns Every Developer Needs to Know](https://dev.to/busycaesar/5-ai-agent-design-patterns-every-developer-needs-to-know-1n5l)
 - [Chunking for context: 6 Strategies Every AI Engineer Should Know](https://dev.to/busycaesar/chunking-for-context-6-strategies-every-ai-engineer-should-know-40aa)
 - [Model Adaptation: Prompt-Based Techniques vs Fine-Tuning](https://dev.to/busycaesar/model-adaptation-prompt-based-techniques-vs-fine-tuning-3131)
 - [Why Am I a SWE?](https://dev.to/busycaesar/why-am-i-a-swe-1246)
-- [How Retrieval Algorithms Shape Better LLM Responses?](https://dev.to/busycaesar/how-retrieval-algorithms-shape-better-llm-responses-5beo)
 <!-- BLOG-POST-LIST:END -->
 
 **More Posts**: [![Dev.to](https://img.shields.io/badge/Dev.to-black.svg?style=for-the-badge)](https://dev.to/busycaesar)
