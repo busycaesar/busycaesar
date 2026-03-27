@@ -7,7 +7,7 @@
 [![Topmate](https://img.shields.io/badge/topmate-red.svg?style=for-the-badge)](https://topmate.io/busycaesar)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/busycaesar)
 
-A detail-oriented Software Engineer with expertise in building scalable web applications, APIs, and cloud-based solutions. I specialize in creating clean, maintainable code, optimizing workflows, and setting up CI/CD pipelines to deliver high-quality, user-friendly products. With experience in AI application development and a strong focus on accessibility and client collaboration, I ensure tailored solutions that meet unique needs. I am passionate about learning new technologies and delivering impactful results that exceed expectations.
+A detail-oriented Software Engineer and GenAI Evangelist passionate about building scalable, cloud-based applications and AI-powered solutions. With a strong focus on engineering best practices and client collaboration, I deliver tailored solutions that meet unique needs. I channel that same passion into helping developers adopt GenAI technologies through technical blogs, videos, and conference talks.
 
 Get Info: `curl -Ls cli.shahtech.info`
 
