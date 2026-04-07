@@ -1,0 +1,54 @@
+name: Update Speaking Sessions
+
+on:
+  schedule:
+    - cron: "* */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-speaking-sessions:
+    name: Update this repo's README with latest speaking sessions
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Fetch and update speaking sessions
+        run: |
+          python3 - <<'EOF'
+          import json
+          import urllib.request
+          import re
+
+          url = "https://raw.githubusercontent.com/busycaesar/Public_Speaking_Portfolio/Master/engagements.json"
+          with urllib.request.urlopen(url) as response:
+              engagements = json.loads(response.read().decode())
+
+          top5 = engagements[:5]
+
+          lines = []
+          for e in top5:
+              title = e["title"]
+              link = e.get("eventPage", "#")
+              badge = " ![upcoming](assets/blinking-upcoming.svg)" if e.get("status") == "upcoming" else ""
+              lines.append(f"- [{title}]({link}){badge}")
+
+          content = "\n".join(lines)
+
+          with open("README.md", "r") as f:
+              readme = f.read()
+
+          pattern = r"<!-- SPEAKING-SESSIONS-LIST:START -->.*?<!-- SPEAKING-SESSIONS-LIST:END -->"
+          replacement = f"<!-- SPEAKING-SESSIONS-LIST:START -->\n{content}\n<!-- SPEAKING-SESSIONS-LIST:END -->"
+          new_readme = re.sub(pattern, replacement, readme, flags=re.DOTALL)
+
+          with open("README.md", "w") as f:
+              f.write(new_readme)
+
+          print("README updated successfully")
+          EOF
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "Updated with the latest speaking sessions"
+          git push

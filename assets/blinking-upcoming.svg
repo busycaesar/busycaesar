@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="20">
+  <style>
+    .badge { animation: blink 1.2s step-end infinite; }
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+  </style>
+  <rect class="badge" width="72" height="20" rx="4" fill="#27ae60"/>
+  <text class="badge" x="36" y="14" font-family="DejaVu Sans,sans-serif" font-size="11" font-weight="bold" fill="white" text-anchor="middle">upcoming</text>
+</svg>
