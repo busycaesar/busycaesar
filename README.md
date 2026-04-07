@@ -44,7 +44,7 @@ bash <(curl -Ls bash.shahtech.info)
 
 ---
 
-## Speaking Engagements
+## Latest Speaking Engagements
 
 <!-- SPEAKING-SESSIONS-LIST:START -->
 
