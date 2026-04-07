@@ -9,9 +9,13 @@
 
 A detail-oriented Software Engineer and GenAI Evangelist passionate about building scalable, cloud-based applications and AI-powered solutions. With a strong focus on engineering best practices and client collaboration, I deliver tailored solutions that meet unique needs. I channel that same passion into helping developers adopt GenAI technologies through technical blogs, videos, and conference talks.
 
-Get Info: `curl -Ls cli.shahtech.info`
+```bash
+# 📋 Get Info
+curl -Ls cli.shahtech.info
 
-Interactive Resume: `bash <(curl -Ls bash.shahtech.info)`
+# 💻 Interactive Resume
+bash <(curl -Ls bash.shahtech.info)
+```
 
 ---
 
