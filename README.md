@@ -47,7 +47,6 @@ bash <(curl -Ls bash.shahtech.info)
 ## Latest Speaking Engagements
 
 <!-- SPEAKING-SESSIONS-LIST:START -->
-
 - [Orlando Code Camp](https://www.orlandocodecamp.com) ![upcoming](assets/blinking-upcoming.svg)
 - [AgentCon - Toronto](https://globalai.community/chapters/toronto/events/agentcon-toronto/)
 - [MongoDB Meetup: Retrieval-Augmented Generation Skill Badge](https://www.meetup.com/mongodb-usergroup-toronto/events/312993741)
