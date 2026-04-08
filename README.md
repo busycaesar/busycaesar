@@ -73,11 +73,10 @@ bash <(curl -Ls bash.shahtech.info)
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-
 - [AI Agent Architecture Patterns! #aiagents #agenticai #artificialintelligence #generativeai #llm](https://www.youtube.com/shorts/AEeCu3ZK0RY)
 - [Spec Driven Development #vibecoding #specdrivendevelopment #m#generativeai #artificialintelligence](https://www.youtube.com/shorts/pwT8yRZ2MjM)
 - [Distillation &amp; Distilled Models #distillation #llms #slms #generativeai #artificialintelligence](https://www.youtube.com/shorts/_QBAlotlEd4)
-- [AgentCon Toronto, @GlobalAICommunity! #aiagents #aiengineering #generativeai #llms #ai](https://www.youtube.com/shorts/NwreW4--Avo)
+- [AgentCon Toronto,  @GlobalAICommunity! #aiagents #aiengineering #generativeai #llms #ai](https://www.youtube.com/shorts/NwreW4--Avo)
 - [Model Registry #modelregistry #llm #foundationalmodel #generativeai #artificialintelligence](https://www.youtube.com/shorts/JrzmH0ZNY-s)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
