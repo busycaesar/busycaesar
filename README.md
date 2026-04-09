@@ -71,11 +71,11 @@ bash <(curl -Ls bash.shahtech.info)
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Model Merging #finetuning #largelanguagemodels #generativeai #aiengineering #artificialintelligence](https://www.youtube.com/shorts/DNEx2Z_q6h0)
+- [Multi-task Finetuning #finetuning #generativeai #aiengineering #artificialintelligence](https://www.youtube.com/shorts/2ueHxx6ltVc)
+- [Multi-LoRA Serving through LoRA Adapter #finetuning #aiengineering #artificialintelligence](https://www.youtube.com/shorts/Kn_qqyZp9pM)
+- [LoRA: Low-Rank Adaptation #finetuning #generativeai #aiengineering #artificialintelligence](https://www.youtube.com/shorts/7pQoM2jeDys)
 - [AI Agent Architecture Patterns! #aiagents #agenticai #artificialintelligence #generativeai #llm](https://www.youtube.com/shorts/AEeCu3ZK0RY)
-- [Spec Driven Development #vibecoding #specdrivendevelopment #m#generativeai #artificialintelligence](https://www.youtube.com/shorts/pwT8yRZ2MjM)
-- [Distillation &amp; Distilled Models #distillation #llms #slms #generativeai #artificialintelligence](https://www.youtube.com/shorts/_QBAlotlEd4)
-- [AgentCon Toronto,  @GlobalAICommunity! #aiagents #aiengineering #generativeai #llms #ai](https://www.youtube.com/shorts/NwreW4--Avo)
-- [Model Registry #modelregistry #llm #foundationalmodel #generativeai #artificialintelligence](https://www.youtube.com/shorts/JrzmH0ZNY-s)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 **More Videos**: [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@busycaesar)
