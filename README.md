@@ -25,6 +25,15 @@ bash <(curl -Ls bash.shahtech.info)
 
 ---
 
+## GitHub Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=busycaesar&theme=cobalt2)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=busycaesar&theme=cobalt2&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=busycaesar&theme=cobalt2)
+
+---
+
 ## Certificates
 
 - [Databricks Certified Generative AI Engineer Associate](https://credentials.databricks.com/4828045b-21ec-4f68-92bd-d9a3f02cc612)
@@ -79,11 +88,3 @@ bash <(curl -Ls bash.shahtech.info)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 **More Videos**: [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@busycaesar)
-
-<!--
-
-## GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=busycaesar&theme=ads-juicy-fresh)
-
--->
