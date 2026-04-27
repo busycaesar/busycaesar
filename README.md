@@ -25,21 +25,21 @@ bash <(curl -Ls bash.shahtech.info)
 
 ---
 
-## GitHub Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=busycaesar&theme=cobalt2)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=busycaesar&theme=cobalt2&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=busycaesar&theme=cobalt2)
-
----
-
 ## Certificates
 
 - [Databricks Certified Generative AI Engineer Associate](https://credentials.databricks.com/4828045b-21ec-4f68-92bd-d9a3f02cc612)
 - [Generative AI Leader](https://www.credly.com/earner/earned/badge/11e20051-d8b9-4520-8906-9d90dcd0db40)
 - [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/busycaesar/credentials/e484210d8c19cdc9)
 - [AWS Certified Cloud Practitioner](https://www.linkedin.com/in/busycaesar/details/certifications/1769003569599/single-media-viewer)
+
+---
+
+## GitHub Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=busycaesar&theme=cobalt2)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=busycaesar&theme=cobalt2&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=busycaesar&theme=cobalt2)
 
 ---
 
