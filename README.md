@@ -27,7 +27,8 @@ bash <(curl -Ls bash.shahtech.info)
 
 ## npm Packages
 
-- [agentscribe](https://www.npmjs.com/package/agentscribe): A CLI to create AI skill files once and sync them across Claude, Cursor, Gemini etc. — write once, use everywhere.
+### [AgentScribe](https://www.npmjs.com/package/agentscribe)
+A CLI to create AI skill files once and sync them across Claude, Cursor, Gemini etc. — write once, use everywhere.
 
 [![npm version](https://img.shields.io/npm/v/agentscribe?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/agentscribe)
 [![npm total downloads](https://img.shields.io/npm/dt/agentscribe?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/agentscribe)
