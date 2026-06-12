@@ -25,6 +25,16 @@ bash <(curl -Ls bash.shahtech.info)
 
 ---
 
+## npm Packages
+
+- [agentscribe](https://www.npmjs.com/package/agentscribe): A CLI to create AI skill files once and sync them across Claude, Cursor, Gemini etc. — write once, use everywhere.
+
+[![npm version](https://img.shields.io/npm/v/agentscribe?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/agentscribe)
+[![npm total downloads](https://img.shields.io/npm/dt/agentscribe?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/agentscribe)
+[![GitHub](https://img.shields.io/badge/GitHub-agentscribe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/busycaesar/agentscribe)
+
+---
+
 ## Certificates
 
 - [Databricks Certified Generative AI Engineer Associate](https://credentials.databricks.com/4828045b-21ec-4f68-92bd-d9a3f02cc612)
@@ -40,19 +50,6 @@ bash <(curl -Ls bash.shahtech.info)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=busycaesar&theme=cobalt2&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=busycaesar&theme=cobalt2)
-
----
-
-## npm Packages
-
-### [agentscribe](https://www.npmjs.com/package/agentscribe)
-
-A CLI to create AI skill files once and sync them across Claude, Cursor, and Gemini — write once, use everywhere.
-
-[![npm version](https://img.shields.io/npm/v/agentscribe?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/agentscribe)
-[![npm downloads](https://img.shields.io/npm/dm/agentscribe?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/agentscribe)
-[![npm total downloads](https://img.shields.io/npm/dt/agentscribe?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/agentscribe)
-[![GitHub](https://img.shields.io/badge/GitHub-agentscribe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/busycaesar/agentscribe)
 
 ---
 
