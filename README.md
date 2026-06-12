@@ -43,6 +43,19 @@ bash <(curl -Ls bash.shahtech.info)
 
 ---
 
+## npm Packages
+
+### [agentscribe](https://www.npmjs.com/package/agentscribe)
+
+A CLI to create AI skill files once and sync them across Claude, Cursor, and Gemini — write once, use everywhere.
+
+[![npm version](https://img.shields.io/npm/v/agentscribe?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/agentscribe)
+[![npm downloads](https://img.shields.io/npm/dm/agentscribe?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/agentscribe)
+[![npm total downloads](https://img.shields.io/npm/dt/agentscribe?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/agentscribe)
+[![GitHub](https://img.shields.io/badge/GitHub-agentscribe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/busycaesar/agentscribe)
+
+---
+
 ## Notes
 
 - [SAA-C03](https://saa-c03.shahtech.info): Notes for AWS Certified Solutions Architect - Associate
