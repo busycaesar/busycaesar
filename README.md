@@ -67,11 +67,11 @@ A CLI to create AI skill files once and sync them across Claude, Cursor, Gemini 
 ## Latest Speaking Engagements
 
 <!-- SPEAKING-SESSIONS-LIST:START -->
+- [MI.NET — Dev J. Shah - Cosine Similarity with Azure AI Search & Azure AI Foundry](https://www.meetup.com/midotnet/events/314783429/) ![upcoming](assets/blinking-upcoming.svg)
 - [Orlando Code Camp](https://www.orlandocodecamp.com)
 - [AgentCon - Toronto](https://globalai.community/chapters/toronto/events/agentcon-toronto/)
 - [MongoDB Meetup: Retrieval-Augmented Generation Skill Badge](https://www.meetup.com/mongodb-usergroup-toronto/events/312993741)
 - [TechTalk (In-Person) - February 2026](https://guild.host/events/techtalk-inperson-february-zwj11k)
-- [The Math of Cosine Similarity](https://gdg.community.dev/events/details/google-gdg-toronto-presents-the-math-of-cosine-similarity/)
 <!-- SPEAKING-SESSIONS-LIST:END -->
 
 **More Engagements**: [![Website](https://img.shields.io/badge/Read%20More-orange.svg?style=for-the-badge)](https://www.shahtech.info/speaking)
