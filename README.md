@@ -25,7 +25,7 @@ bash <(curl -Ls bash.shahtech.info)
 
 ---
 
-## Published Tools
+## Published Dev Tools
 
 ### [AgentScribe](https://www.npmjs.com/package/agentscribe) `npm package`
 A CLI to create AI skill files once and sync them across Claude, Cursor, Gemini etc. — write once, use everywhere.
