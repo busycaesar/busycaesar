@@ -25,14 +25,23 @@ bash <(curl -Ls bash.shahtech.info)
 
 ---
 
-## npm Packages
+## Published Tools
 
-### [AgentScribe](https://www.npmjs.com/package/agentscribe)
+### [AgentScribe](https://www.npmjs.com/package/agentscribe) `npm package`
 A CLI to create AI skill files once and sync them across Claude, Cursor, Gemini etc. — write once, use everywhere.
+
 
 [![npm version](https://img.shields.io/npm/v/agentscribe?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/agentscribe)
 [![npm total downloads](https://img.shields.io/npm/dt/agentscribe?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/agentscribe)
 [![GitHub](https://img.shields.io/badge/GitHub-agentscribe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/busycaesar/agentscribe)
+
+### [always-readme](https://github.com/marketplace/actions/always-readme) `GitHub Action`
+Always-Readme is a GitHub Action that uses AI to automatically keep your README.md in sync with your codebase, diffing recent changes and opening a pull request with the updated content for review.
+
+
+[![GitHub release](https://img.shields.io/github/v/release/busycaesar/always-readme?include_prereleases&style=for-the-badge&logo=github&logoColor=white&label=version)](https://github.com/busycaesar/always-readme/releases)
+[![GitHub stars](https://img.shields.io/github/stars/busycaesar/always-readme?style=for-the-badge&logo=github&logoColor=white)](https://github.com/busycaesar/always-readme/stargazers)
+[![GitHub](https://img.shields.io/badge/GitHub-always--readme-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/busycaesar/always-readme)
 
 ---
 
