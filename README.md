@@ -1,4 +1,11 @@
-# Dev J. Shah, Software Engineer & GenAI Evangelist
+<pre>
+██████╗ ███████╗██╗   ██╗         ██╗       ███████╗██╗  ██╗ █████╗ ██╗  ██╗
+██╔══██╗██╔════╝██║   ██║         ██║       ██╔════╝██║  ██║██╔══██╗██║  ██║
+██║  ██║█████╗  ██║   ██║         ██║       ███████╗███████║███████║███████║
+██║  ██║██╔══╝  ╚██╗ ██╔╝    ██   ██║       ╚════██║██╔══██║██╔══██║██╔══██║
+██████╔╝███████╗ ╚████╔╝     ╚█████╔╝██╗    ███████║██║  ██║██║  ██║██║  ██║
+╚═════╝ ╚══════╝  ╚═══╝       ╚════╝ ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+</pre>                                                                        
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/busycaesar)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/busycaesar)
