@@ -58,9 +58,6 @@ Always-Readme is a GitHub Action that uses AI to automatically keep your README.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=busycaesar&theme=cobalt2)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=busycaesar&theme=cobalt2&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=busycaesar&theme=cobalt2)
-
 ![My skyline](https://raw.githubusercontent.com/busycaesar/busycaesar/output/skyline.svg)
 
 ---
