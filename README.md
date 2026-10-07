@@ -5,7 +5,7 @@
 ██║  ██║██╔══╝  ╚██╗ ██╔╝    ██   ██║       ╚════██║██╔══██║██╔══██║██╔══██║
 ██████╔╝███████╗ ╚████╔╝     ╚█████╔╝██╗    ███████║██║  ██║██║  ██║██║  ██║
 ╚═════╝ ╚══════╝  ╚═══╝       ╚════╝ ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-</pre>                                                                        
+</pre>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/busycaesar)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/busycaesar)
@@ -16,35 +16,27 @@
 
 A detail-oriented Software Engineer and GenAI Evangelist passionate about building scalable, cloud-based applications and AI-powered solutions. With a strong focus on engineering best practices and client collaboration, I deliver tailored solutions that meet unique needs. I channel that same passion into helping developers adopt GenAI technologies through technical blogs, videos, and conference talks.
 
-```bash
-# 📋 Get Info
-curl -Ls cli.shahtech.info
-
-# 💻 Interactive Resume
-bash <(curl -Ls bash.shahtech.info)
-```
-
 ---
 
 ## Technical Skills
 
-![Technical Skills](https://skillicons.dev/icons?i=py,js,java,react,nextjs,flask,nodejs,mongo,postgres,redis,docker,linux,vscode,vim&perline=7)
+![Technical Skills](https://skillicons.dev/icons?i=py,js,java,react,nextjs,flask,nodejs,docker,linux)
 
 ---
 
 ## Published Dev Tools
 
 ### [AgentScribe](https://www.npmjs.com/package/agentscribe) `npm package`
-A CLI to create AI skill files once and sync them across Claude, Cursor, Gemini etc. — write once, use everywhere.
 
+A CLI to create AI skill files once and sync them across Claude, Cursor, Gemini etc. — write once, use everywhere.
 
 [![npm version](https://img.shields.io/npm/v/agentscribe?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/agentscribe)
 [![npm total downloads](https://img.shields.io/npm/dt/agentscribe?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/agentscribe)
 [![GitHub](https://img.shields.io/badge/GitHub-agentscribe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/busycaesar/agentscribe)
 
 ### [always-readme](https://github.com/marketplace/actions/always-readme) `GitHub Action`
-Always-Readme is a GitHub Action that uses AI to automatically keep your README.md in sync with your codebase, diffing recent changes and opening a pull request with the updated content for review.
 
+Always-Readme is a GitHub Action that uses AI to automatically keep your README.md in sync with your codebase, diffing recent changes and opening a pull request with the updated content for review.
 
 [![GitHub release](https://img.shields.io/github/v/release/busycaesar/always-readme?include_prereleases&style=for-the-badge&logo=github&logoColor=white&label=version)](https://github.com/busycaesar/always-readme/releases)
 [![GitHub stars](https://img.shields.io/github/stars/busycaesar/always-readme?style=for-the-badge&logo=github&logoColor=white)](https://github.com/busycaesar/always-readme/stargazers)
@@ -86,6 +78,7 @@ Always-Readme is a GitHub Action that uses AI to automatically keep your README.
 ## Latest Speaking Engagements
 
 <!-- SPEAKING-SESSIONS-LIST:START -->
+
 - [DevFest Montreal](https://devfest.gdgmontreal.com/en/) ![upcoming](assets/blinking-upcoming.svg)
 - [MI.NET — Dev J. Shah - Cosine Similarity with Azure AI Search & Azure AI Foundry](https://www.meetup.com/midotnet/events/314783429/)
 - [Orlando Code Camp](https://www.orlandocodecamp.com)
@@ -98,6 +91,7 @@ Always-Readme is a GitHub Action that uses AI to automatically keep your README.
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Cracking the Databricks Generative AI Engineer Certification](https://dev.to/busycaesar/cracking-the-databricks-generative-ai-engineer-certification-10ga)
 - [Hands-on: Azure AI Search &amp; AI Foundry for RAG](https://dev.to/busycaesar/hands-on-azure-ai-search-ai-foundry-for-rag-3i9g)
 - [5 AI Agent Design Patterns Every Developer Needs to Know](https://dev.to/busycaesar/5-ai-agent-design-patterns-every-developer-needs-to-know-1n5l)
@@ -110,6 +104,7 @@ Always-Readme is a GitHub Action that uses AI to automatically keep your README.
 ## Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+
 - [How LoRA reduce the trainable parameters by a significant number! #Finetuning #LLMs #AIEngineering](https://www.youtube.com/shorts/rww9w4iE-kg)
 - [Model Merging #finetuning #largelanguagemodels #generativeai #aiengineering #artificialintelligence](https://www.youtube.com/shorts/DNEx2Z_q6h0)
 - [Multi-task Finetuning #finetuning #generativeai #aiengineering #artificialintelligence](https://www.youtube.com/shorts/2ueHxx6ltVc)
