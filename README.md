@@ -46,6 +46,7 @@ Always-Readme is a GitHub Action that uses AI to automatically keep your README.
 
 ## Certificates
 
+- [Claude Certified Architect - Professional](https://www.credly.com/badges/0ead47f6-cf83-4513-81c3-6dd25cd4291d)
 - [Databricks Certified Generative AI Engineer Associate](https://credentials.databricks.com/4828045b-21ec-4f68-92bd-d9a3f02cc612)
 - [Google Cloud Certified Generative AI Leader](https://www.credly.com/badges/11e20051-d8b9-4520-8906-9d90dcd0db40)
 - [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/busycaesar/credentials/e484210d8c19cdc9)
