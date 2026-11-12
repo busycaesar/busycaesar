@@ -76,11 +76,11 @@ Always-Readme is a GitHub Action that uses AI to automatically keep your README.
 ## Latest Speaking Engagements
 
 <!-- SPEAKING-SESSIONS-LIST:START -->
+- [DeveloperWeek 2027](https://www.developerweek.com/) ![upcoming](assets/blinking-upcoming.svg)
 - [TechTalk (In-Person) - November 2026](https://guild.host/events/techtalk-inperson-november-mdyshj) ![upcoming](assets/blinking-upcoming.svg)
 - [DevFest Toronto: Build, Secure, Scale: Developers and Builders in the Agentic Era](http://gdg.community.dev/events/details/google-gdg-toronto-presents-devfest-toronto-build-secure-scale-developers-and-builders-in-the-agentic-era-1/cohost-gdg-toronto/) ![upcoming](assets/blinking-upcoming.svg)
 - [DevFest MTL '26](https://devfest.gdgmontreal.com/en/)
 - [MI.NET — Dev J. Shah - Cosine Similarity with Azure AI Search & Azure AI Foundry](https://www.meetup.com/midotnet/events/314783429/)
-- [Orlando Code Camp](https://www.orlandocodecamp.com)
 <!-- SPEAKING-SESSIONS-LIST:END -->
 
 **More Engagements**: [![Website](https://img.shields.io/badge/Read%20More-orange.svg?style=for-the-badge)](https://www.shahtech.info/speaking)
